@@ -45,6 +45,11 @@
 			<artifactId>aws-lambda-java-core</artifactId>
 			<version>1.2.1</version>
 		</dependency>
+		<dependency>
+      <groupId>com.amazonaws</groupId>
+      <artifactId>aws-lambda-java-events</artifactId>
+      <version>2.2.9</version>
+    </dependency>
 		<!-- https://mvnrepository.com/artifact/com.ibm.db2.jcc/db2jcc4 -->
 		<!-- https://mvnrepository.com/artifact/com.ibm.db2.jcc/db2jcc -->
 		<dependency>
